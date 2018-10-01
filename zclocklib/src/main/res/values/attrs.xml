@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CountTimeView">
+        <attr name="time" format="integer"/>
+        <attr name="color_circle" format="color"/>
+        <attr name="color_progress" format="color"/>
+        <attr name="color_text" format="color"/>
+    </declare-styleable>
+</resources>
